@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Integrante da 78ª Turma de Java Full Stack da Generation Brasil.<br>Aonde aprendi sobre as principais tecnologias do mercado, como:<br><br>Java<br>Spring Tools<br>SQL<br>Html<br>Css<br>JavaScript<br>TypeScript<br>React<br>Além de ter conquistado certificações profissionalizantes nas áreas de Desenvolvimento de Sistemas C# e de Desenho Gráfico. Aonde eu aprendi a trabalhar com:<br><br>Adobe Photoshop<br>Adobe illustrator<br>Adobe Premiere<br>After Effects<br>CorelDraw</p>
+<p align="left">Integrante da 78ª Turma de Java Full Stack da Generation Brasil.<br>Aonde aprendi sobre as principais tecnologias do mercado, como:<br><br>Java<br>Spring Tools<br>SQL<br>Html<br>Css<br>JavaScript<br>TypeScript<br>React<br>Além de ter conquistado certificações profissionalizantes nas áreas de<br>Desenvolvimento de Sistemas C# e de Desenho Gráfico. Aonde eu aprendi a trabalhar com:<br><br>Adobe Photoshop<br>Adobe illustrator<br>Adobe Premiere<br>After Effects<br>CorelDraw</p>
 
 ###
 
@@ -61,6 +61,5 @@
 ###
 
 <br clear="both">
-
 
 ###
