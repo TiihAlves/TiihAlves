@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TiihAlves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=TiihAlves&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D" height="180" alt="streak graph"  />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiihAlves&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
