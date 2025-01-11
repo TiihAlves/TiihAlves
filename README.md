@@ -17,7 +17,7 @@
 ###
 
 <p align="left" size="40px">Integrante da 78ª Turma de Java Full Stack da Generation Brasil,<br>onde aprendi sobre as principais tecnologias do mercado.<br>Além de ter curso técnico em informática e conquistado certificações profissionalizantes nas áreas de<br>Desenvolvimento de Sistemas C# e de Desenho Gráfico. <br></p>
-📫 Contate-me em: <a href="#"> tiih.alves1@gmail.com </a>
+📫 Contate-me em: <a href="tiih.alves1@gmail.com"> tiih.alves1@gmail.com </a>
  
 ###
 
